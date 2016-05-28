@@ -1,0 +1,10 @@
+# Logfile created on 2016-05-28 13:40:38 +0000 by logger.rb/53141
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-05-28 13:40:38 +0000 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b37e5415] Running /usr/bin/env mkdir -p /tmp/cloudinhost/ as deploy@cloudinhost.com
+  INFO [b37e5415] Finished in 6.282 seconds with exit status 0 (successful).
+  INFO Uploading /tmp/cloudinhost/git-ssh.sh 100.0%
+  INFO [9c183791] Running /usr/bin/env chmod +rx /tmp/cloudinhost/git-ssh.sh as deploy@cloudinhost.com
+  INFO [9c183791] Finished in 0.116 seconds with exit status 0 (successful).
+  INFO [ee6587a0] Running /usr/bin/env git ls-remote --heads git@github.com:nakamuraagatha/wpcapistrano.git as deploy@cloudinhost.com
